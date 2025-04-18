@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/WarlockJa/product-list-with-cart)
+- Live Site URL: [Vercel](https://product-list-with-cart-roan.vercel.app/)
 
 ## My process
 
