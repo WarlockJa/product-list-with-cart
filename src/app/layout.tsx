@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${redHatText.variable} mx-auto w-screen max-w-6xl antialiased`}
+        className={`${redHatText.variable} ${redHatText.className} mx-auto w-screen max-w-6xl antialiased`}
       >
         <CartContextProvider>{children}</CartContextProvider>
       </body>
